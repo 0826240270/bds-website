@@ -1,0 +1,245 @@
+.breadcrumb{
+    padding-top: 12px;
+    padding-right: 20px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.breadcrumb {
+    padding-top: -15px;
+}
+
+.breadcrumb-item a {
+    color: whitesmoke;
+}
+
+.breadcrumb-item a:hover {
+    color: rgba(255,255,255,.75);
+}
+
+nav > div.container-fluid-search {
+    width: 70%;
+    padding-top: 10px;
+    padding-right: var(--bs-gutter-x, 0.75rem);
+    padding-left: var(--bs-gutter-x, 0.75rem);
+    margin-right: auto;
+    margin-left: auto;
+    align-items: center;
+    justify-content: center !important;
+}
+
+#carouselExampleControls{
+    padding-top: 20px;
+}
+
+.carousel-caption {
+  position: absolute;
+  right: 15%;
+  top: 1.25rem;
+  left: 15%;
+  padding-top: 1.75rem;
+  padding-bottom: 1.20rem;
+  text-align: center;
+}
+
+.carousel-caption h1, p {
+  color: #fff;
+}
+
+a.link_blue:link {
+    color: #055699;
+    font-size: 13px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.datetime {
+    color: #999;
+    padding: 0;
+    font-family: Tahoma;
+    font-size: 12px;
+    margin: 0;
+    text-decoration: none
+}
+
+.dotted-border-bottom {
+    border-bottom: 1px dotted black;
+}
+
+div.row p {
+    font-family: 'Quicksand', sans-serif;
+    color: black;
+    font-size: small;
+}
+
+.col-3 {
+    padding-top: 10px;
+}
+
+.mb5 {
+    display: flex;
+    flex-direction: row;
+    font-family: Tahoma;
+    font-size: 0.9em;
+    margin: 20px 0px 15px 22px;
+    text-decoration: none;
+}
+
+.news-text  {
+    padding-left: 12px;
+}
+
+.box-header {
+    background: none repeat scroll 0 0 #055699;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+
+.name_title > h2 {
+    padding: 5px;
+    display: block;
+    font-size: 1em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.col-9 span {
+    padding-left: 20px;
+    display: block;
+    font-size: 0.8em;
+    color: black;
+}
+
+.dotted-border-bottom-news {
+    border-bottom: 1px dotted black;
+    padding-top: 10px;
+}
+
+h2.title {
+    line-height: 1.4;
+    color: #ea8025;
+    width: 100%;
+    display: inline-block;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 0.9em;
+    padding-bottom: 0.4 em;
+    font-weight: 700;
+    font-family: 'BebasNeue','Lato', "Times New Roman", serif;
+}
+
+.link {
+    color:burlywood;
+}
+
+.link:hover {
+    color:blue;
+}
+
+.btn-primary {
+    background-color:whitesmoke;
+    border-color: #999;
+    color:black;
+}
+
+.btn-toolbar {
+    flex-flow: column;
+    align-items: center;
+}
+
+.border-bot {
+    max-width: 100%;
+    height: 4px;
+    background: linear-gradient(
+90deg
+, rgba(0,0,0,0.8) 0%, rgba(252,208,5,1) 76%);
+}
+
+.list-group-item-success {
+    background-color: white;
+    color:#ea8025;
+}
+
+.list-group-item-success:hover {
+    background-color: antiquewhite;
+}
+
+.back-ground-footer{
+    background-color: #024073;;
+}
+
+.footer-new {
+    padding-top: 30px;
+    text-transform: uppercase;
+    color: whitesmoke;
+    font-size: 14px;
+    line-height: 20px;
+    text-transform: uppercase;
+    border-bottom: 1px solid #055699;
+    padding-bottom: 18px;
+    margin-bottom: 8px;
+    position: relative;
+}
+
+.link-footer {
+    color:whitesmoke;
+    font-size: 14px;
+}
+
+span.material-icons {
+    font-size: 15px;
+    padding-right: 5px;
+}
+
+.btn-secondary {
+    background: #032d4f ;
+    height: 30px;
+    width: 140px;
+}
+
+.btn-secondary img {
+    padding-right: 3px;
+    padding-bottom: 4px;
+}
+
+.d-md-block h1 {
+    text-transform: uppercase;
+}
+
+.btn-list img{
+    padding-right: 10px;
+    padding-bottom: 4px;
+}
+
+.btn-list:hover {
+    background-color: grey;
+}
+
+.title-footer {
+    font-weight: bold;
+}
+
+.footer-title {
+    margin: 18px 0 9px;
+    font-weight: 700;
+    font-size: 14px;
+    font-family: Roboto,sans-serif;
+    line-height: 19px;
+    color:whitesmoke;
+}
+
+.btn-gui {
+    background-color: green;
+    color: whitesmoke;
+    font-weight: bold;
+}
